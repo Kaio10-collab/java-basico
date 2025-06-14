@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
 out/
+.idea/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
@@ -27,3 +28,28 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Arquivos de log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos temporários e backups
+*.tmp
+*~
+~*
+
+# Pastas de dependências (comuns em projetos Node.js, PHP, etc.)
+node_modules/
+vendor/
+
+# Arquivos de compilação/build
+build/
+dist/
+target/ # Comum em projetos Java (Maven/Gradle)
+
+# Arquivos de configuração de ambiente e informações sensíveis
+.env
+.env.local
+.DS_Store # Já incluído no seu exemplo de Mac OS, mas bom reforçar
