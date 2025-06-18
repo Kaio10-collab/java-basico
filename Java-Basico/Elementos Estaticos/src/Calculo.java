@@ -1,5 +1,3 @@
-package estatico;
-
 public class Calculo {
 
     // Utilizei paramêtro Varargs nos métodos abaixo, que chama quantas vezes quiser o valor para int, ele é feito através dos ... após o tipo.

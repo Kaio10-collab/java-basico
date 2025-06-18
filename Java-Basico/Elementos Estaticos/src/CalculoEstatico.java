@@ -1,5 +1,3 @@
-package estatico;
-
 public class CalculoEstatico {
 
      /*
