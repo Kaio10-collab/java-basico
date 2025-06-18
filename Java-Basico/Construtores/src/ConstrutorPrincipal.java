@@ -1,4 +1,4 @@
-public class Main {
+public class ConstrutorPrincipal {
 
     /*
     Um construtor é, nada menos que um método especial em que é chamado automaticamente quando você cria uma nova instância de uma classe (ou seja, um novo objeto).
