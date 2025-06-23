@@ -2,7 +2,7 @@ package hashmap;
 
 import java.util.HashMap;
 
-public class PrincipalHashMap {
+public class HashMapPrincipal {
 
     /*
     Quando utilizamos o hashmap, estamos armazenando informções em pares, ou seja, um par terá uma chave e valor.

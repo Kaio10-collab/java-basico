@@ -1,6 +1,6 @@
 package arrays;
 
-public class PrincipalArrays {
+public class ArraysPrincipal {
 
     /*
     Quando falamos de arrays, estamos definindo uma condição fixa e imutável, então aqui a gente defini o tipo e o tamanho,

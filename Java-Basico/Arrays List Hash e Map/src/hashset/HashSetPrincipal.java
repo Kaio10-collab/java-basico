@@ -2,7 +2,7 @@ package hashset;
 
 import java.util.HashSet;
 
-public class PrincipalHashSet {
+public class HashSetPrincipal {
 
     /*
     Vamos imaginar que temos uma bolsa e vamos jogando os itens sem se preocupar com a ordem, além disso nunca poderá ter dois itens iguais.

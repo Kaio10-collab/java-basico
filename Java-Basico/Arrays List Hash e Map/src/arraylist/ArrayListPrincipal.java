@@ -2,7 +2,7 @@ package arraylist;
 
 import java.util.ArrayList;
 
-public class PrincipalArrayList {
+public class ArrayListPrincipal {
 
     /*
     Vamos pensar que um ArrayList como uma lista flexível ou uma gaveta mágica que pode se expandir e encolher conforme você coloca ou tira itens dela.
