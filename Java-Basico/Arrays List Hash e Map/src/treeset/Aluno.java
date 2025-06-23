@@ -7,6 +7,8 @@ public class Aluno {
         GerenciarAlunos gerenciamento = new GerenciarAlunos();
 
         gerenciamento.adicionarAluno("Maria");
+        gerenciamento.adicionarAluno("Goku");
+        gerenciamento.adicionarAluno("Luffy");
         gerenciamento.adicionarAluno("João");
         gerenciamento.adicionarAluno("Ana");
         gerenciamento.adicionarAluno("Lucas");
@@ -15,6 +17,7 @@ public class Aluno {
         gerenciamento.listarAlunos();
 
         gerenciamento.removerAluno("Ana");
+        gerenciamento.removerAluno("Ana"); // para saída não encontrado
 
         gerenciamento.listarAlunos();
 

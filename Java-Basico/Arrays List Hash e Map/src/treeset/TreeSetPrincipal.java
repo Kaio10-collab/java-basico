@@ -5,7 +5,7 @@ import java.util.TreeSet;
 public class TreeSetPrincipal {
 
     /*
-
+    Vamos relembrar um pouco do hashSet, que ele armazena sem tem uma ordem específica, já o treeSet organiza. Também garantimos que não há duplicatas.
     */
 
     public static void main(String[] args) {
