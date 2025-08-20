@@ -26,6 +26,7 @@ public class AbstractFactory {
 
         System.out.println("--------------------");
 
+        // Criando um carro de popular, apenas mudando a fábrica!
         System.out.println("--- Montando um Carro Popular ---");
         FabricaDeCarros fabricaPopular = new FabricaDeCarrosPopulares();
         app.montarCarro(fabricaPopular);
