@@ -7,16 +7,16 @@
 * Ele torna o seu código mais flexível e extensível. Se você precisar adicionar uma nova família de objetos (como a de carros populares), a parte do código que usa os objetos não precisa ser alterada.
 
 ## Como funciona? 
-* O padrão é construído com quatro partes principais:
+O padrão é construído com quatro partes principais:
 
-### Abstract Factory (Interface): 
+1. ### Abstract Factory (Interface): 
 * Define o "contrato" de como a fábrica deve criar os objetos.
 
-### Concrete Factory (Classe): 
+2. ### Concrete Factory (Classe): 
 * Implementa a interface e sabe como criar uma família específica de objetos.
 
-### Abstract Product (Interface): 
+3. ### Abstract Product (Interface): 
 * Define o "contrato" para um tipo de objeto (como Carroceria).
 
-### Concrete Product (Classe): 
+4. ### Concrete Product (Classe): 
 * É a classe real do objeto que a fábrica produz (como CarroceriaEsportiva). 
