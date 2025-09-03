@@ -1,6 +1,6 @@
 # Decorator
 
-é um padrão de design estrutural que permite adicionar funcionalidades a um objeto de forma dinâmica e flexível, sem modificar o código original da classe. Conhecido também como "Wrapper", ele envolve um objeto dentro de outros objetos (os decoradores), que adicionam comportamentos extras, seguindo a mesma interface para permitir o empilhamento e a combinação de várias funcionalidades.
+É um padrão de design estrutural que permite adicionar funcionalidades a um objeto de forma dinâmica e flexível, sem modificar o código original da classe. Conhecido também como "Wrapper", ele envolve um objeto dentro de outros objetos (os decoradores), que adicionam comportamentos extras, seguindo a mesma interface para permitir o empilhamento e a combinação de várias funcionalidades.
 
 ## Como funciona:
 
